@@ -35,4 +35,10 @@ public class ReuseFunctions {
 		acti.moveToElement(mainlink).moveToElement(sublink).click().build().perform();
 		
 	}
+	public void checkBox(WebElement mainlink,WebElement sublink)
+	
+	{
+		//
+		
+	}
 }
